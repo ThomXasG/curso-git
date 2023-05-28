@@ -56,3 +56,5 @@ getBlogContent();
 const loadAdds = () => {
     console.log('Adds loaded');
 }
+
+// cambio 1
